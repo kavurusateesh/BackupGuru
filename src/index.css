@@ -1,0 +1,169 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.padTopCategorySave {
+	margin-top: 23px !important;
+}
+.padTopCategoryAppSave {
+	margin-top: 21px !important;
+}
+.point-cursor {
+	cursor:pointer;
+}
+.dropdown-container a {
+	padding-left: 50px;
+}
+.dropdown-container-new a {
+	padding-left: 50px;
+}
+.dateInput {
+	width: 250px;
+    height: 33px;
+	padding: 5px;
+    box-shadow: none !important;
+}
+.fright {
+	float: right;
+}
+.frmInput {
+	width:50% !important;
+	display: inline !important;
+}
+.frmInput {
+	width:50% !important;
+	display: inline !important;
+}
+input[type="file"] {
+	border:1px solid #C0C0C0;
+	padding: 3px;
+}
+.frmInput[type="checkbox"] {
+	height:12px !important;
+}
+.checkboxMargin {
+	margin: -15px 0 0 !important;
+}
+.labelAppointment {
+	margin-left: 15px;
+}
+.hrefCategory {
+	margin-top: 23px !important;
+	margin-right: 10px;
+}
+.hrefCategoryFacility {
+	margin-top: 0px !important;
+	margin-right: 10px;
+}
+.navbar-header{
+	padding:10px !important;
+}
+	
+.logo-class {
+	/*width: 50px;
+	height: 50px;*/
+}
+.cRed {
+	color: red;
+	font-style: italic;
+}
+.cBlack {
+	/*color: black;*/
+}
+i {
+	color: #337ab7;
+}
+div.doc_info_box > span > i {
+	color: #FFF;
+}
+.assignedNames {
+	padding-top: 8px;
+    font-weight: 700;
+}
+.padErrorBG {
+	color: #FFF;
+	background-color: #88b9cc;
+	padding: 5px;
+}
+.updateNote {
+	color: red;
+	cursor: pointer;
+	font-weight: 600;
+	font-style: Italic;
+}
+th {
+	padding: 5px;
+}
+.margin15 {
+	margin-left: 15px;
+}
+.side_txt {
+	color: #FFF !important;
+}
+.questionInput {
+	width: 100%;
+}
+.txtBold {
+	font-weight: bold;
+}
+.quesMarginLeft {
+	margin-left: -30px;
+}
+li.active {
+	font-size: 16px !important;
+}
+tbody + thead{
+  display: none;
+}
+.slotVal {
+	font-weight: bold;
+	background: beige;
+	cursor: pointer;
+	margin: 17px;
+	border: 1px solid lightblue;
+}
+.btClickedNot {
+	background: brown;
+	color: #FFF;
+}
+.actionEditTxt {
+    font-size: 14px;
+    color: #333;
+}
+
+#reg_form .react-datepicker__current-month, .react-datepicker-time__header, .react-datepicker-year-header{
+  font-size:12px !important;
+ 
+}
+#reg_form .react-datepicker__navigation--next--with-time:not(.react-datepicker__navigation--next--with-today-button){
+  right:90px !important;
+ 
+}
+#reg_form  .react-datepicker__navigation--next{
+  border-left-color:#000 !important;
+}
+#reg_form  .react-datepicker__navigation--previous{
+  border-right-color: #000 !important;
+}
+#reg_form  .react-datepicker__navigation--previous:hover{
+  border-right-color: #000 !important;
+}
+#reg_form  .react-datepicker__navigation--next:hover{
+  border-left-color:#000 !important;
+}
+#reg_form  .react-datepicker__day-name, .react-datepicker__day, .react-datepicker__time-name{
+  font-size:11px !important;
+}
+#reg_form  .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list li.react-datepicker__time-list-item{
+  font-size:11px !important;
+}

@@ -1,0 +1,7 @@
+<svg id="Element_icon_dashboard" data-name="Element / icon / dashboard" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle" width="24" height="24" fill="#fff" opacity="0"/>
+  <path id="Path" d="M6,0H2A2,2,0,0,0,0,2V6A2,2,0,0,0,2,8H6A2,2,0,0,0,8,6V2A2,2,0,0,0,6,0Z" transform="translate(3 3)" fill="#fff"/>
+  <path id="Path-2" data-name="Path" d="M6,0H2A2,2,0,0,0,0,2V6A2,2,0,0,0,2,8H6A2,2,0,0,0,8,6V2A2,2,0,0,0,6,0Z" transform="translate(13 3)" fill="#fff"/>
+  <path id="Path-3" data-name="Path" d="M6,0H2A2,2,0,0,0,0,2V6A2,2,0,0,0,2,8H6A2,2,0,0,0,8,6V2A2,2,0,0,0,6,0Z" transform="translate(3 13)" fill="#fff"/>
+  <path id="Path-4" data-name="Path" d="M6,0H2A2,2,0,0,0,0,2V6A2,2,0,0,0,2,8H6A2,2,0,0,0,8,6V2A2,2,0,0,0,6,0Z" transform="translate(13 13)" fill="#fff"/>
+</svg>
